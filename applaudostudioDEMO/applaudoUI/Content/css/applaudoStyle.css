@@ -1,0 +1,22 @@
+﻿.borderLine {
+    border : solid 1px black;
+    border-radius: 5px;
+}
+
+.backgroundColorPerson{
+    background-color:white;
+    width:200px;
+    height:100px;
+    box-shadow: darkgray 4px 4px;
+    margin: 10px auto;
+}
+
+div.backgroundColorPerson:hover {
+    background-color:lightblue;
+}
+
+.formPerson{
+    margin: 10px auto;
+    width: 200px;
+    padding: 10px;
+}
